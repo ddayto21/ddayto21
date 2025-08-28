@@ -1,12 +1,7 @@
-# Hi, I'm **Daniel Dayto** 👋🏽 💻
-
-![Daniel Dayto Banner](/images/daniel-dayto-banner-github.png)
 
 ---
 
-I'm a **Senior Full-Stack Developer** passionate about turning ideas into **innovative, scalable solutions**.  
-I specialize in **Next.js**, **React**, and **Python**, building intuitive platforms that empower users and solve **real-world problems**.  
-When I’m not coding, I’m brainstorming the next **big idea** or exploring new ways to connect **people and technology**.
+Over the past six years, I’ve built software at high-growth startups, often in the unglamorous but critical parts of the stack—onboarding flows, CI/CD pipelines, build systems, and the infrastructure that keeps teams moving fast. My focus is on solving problems at scale by designing systems that simplify complexity and create lasting impact. I drive mobile engineering at WOLF, where our multi-tenant platform powers labor marketplaces for global workforces.
 
 ---
 
