@@ -23,5 +23,4 @@ Over the past six years, I’ve led full-stack and mobile engineering at high-gr
 ### 🌎 **Find Me Around the Web**
 
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/daniel-dayto/) 💼
-- [Portfolio Website](https://master.dkango3sjfpvv.amplifyapp.com/) 📝
 - Occasional blogs/tutorials on [Medium](https://medium.com/@danielcdayto) 🎥
