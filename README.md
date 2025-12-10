@@ -1,6 +1,6 @@
-I architect scalable systems that unlock organizational leverage. Over six years leading engineering at high-growth startups, I've built multi-tenant platforms serving millions—designing deployment infrastructure, authentication systems, and CI/CD automation that eliminated 80%+ of manual overhead while maintaining 99.9%+ uptime. My work focuses on transforming engineering organizations: converting brittle processes into resilient systems, reducing cycle times from weeks to hours, and turning infrastructure complexity into competitive advantage.
+I architect scalable systems that unlock organizational leverage. Over six years leading engineering at high-growth startups, I've built multi-tenant platforms serving millions—designing deployment infrastructure, authentication systems, and CI/CD automation that eliminated significant manual overhead while maintaining uptime. My work focuses on transforming engineering organizations: converting brittle processes into resilient systems, reducing cycle times from weeks to hours, and turning infrastructure complexity into competitive advantage.
 
-## Technical Leadership
+## Technical Specialities
 
 **Platform Architecture**: Designed multi-tenant SaaS infrastructure powering 50+ white-labeled mobile applications across North America, establishing standards that reduced agency onboarding cycles by 30% and increased release velocity by 35%.
 
